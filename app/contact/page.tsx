@@ -10,7 +10,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email Us",
-    value: "hello@techbullion.com",
+    value: "ahmadmalikcore@gmail.com",
     description: "For general inquiries",
   },
   {
@@ -22,7 +22,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    value: "+1 (555) 123-4567",
+    value: "+92 (305)-667362-6",
     description: "Mon-Fri 9am-6pm PST",
   },
   {
