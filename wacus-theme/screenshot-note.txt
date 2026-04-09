@@ -1,0 +1,1 @@
+NOTE: You need to add a screenshot.png file (1200x900 pixels) to the theme root folder for the theme thumbnail to appear in WordPress.
