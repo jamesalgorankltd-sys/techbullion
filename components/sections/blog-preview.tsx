@@ -12,7 +12,7 @@ const blogPosts = [
     title: "The Rise of Artificial General Intelligence: What to Expect in 2026",
     excerpt: "Exploring the breakthroughs bringing us closer to AGI and what it means for humanity's future.",
     category: "AI",
-    author: "Ahmad Malik",
+    author: "Sarah Chen",
     date: "Apr 5, 2026",
     readTime: "8 min read",
     views: "12.5K",
