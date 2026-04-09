@@ -42,9 +42,13 @@ export function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <Link href="/" className="inline-flex items-center gap-3 mb-6">
-              <div className="w-10 h-10 rounded-lg bg-[#00ff88] flex items-center justify-center">
-                <span className="text-[#0a0a0a] font-bold text-xl">T</span>
-              </div>
+              <div className="relative flex items-center justify-center">
+  <img
+    src="/logo.png"
+    alt="TechBullion Logo"
+    className="w-10 h-10 object-contain"
+  />
+</div>
               <span className="text-xl font-bold text-white">
                 Tech<span className="text-[#00ff88]">Bullion</span>
               </span>
