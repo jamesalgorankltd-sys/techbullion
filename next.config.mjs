@@ -5,6 +5,11 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+
+    domains: [
+      "images.unsplash.com",
+      "prod-files-secure.s3.us-west-2.amazonaws.com",
+    ],
   },
 }
 
